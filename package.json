@@ -1,0 +1,13 @@
+{
+  "name": "fluence",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config=./webpack.config.js"
+  },
+  "dependencies": {
+    "generate-file-webpack-plugin": "^1.0.1",
+    "handlebars": "^4.7.7",
+    "webpack-cli": "^3.3.10",
+    "webpack": "^4.41.3"
+  }
+}
